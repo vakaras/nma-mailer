@@ -29,3 +29,6 @@ bin/django-admin.py: buildout
 
 run:
 	bin/django-admin.py runserver
+
+shell:
+	bin/django-admin.py shell
