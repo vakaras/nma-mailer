@@ -1,0 +1,6 @@
+.installed.cfg
+bin/
+bootstrap.py
+develop-eggs/
+django/
+parts/
