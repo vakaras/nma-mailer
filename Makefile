@@ -1,3 +1,8 @@
+DJANGO_SETTINGS_MODULE=project.settings
+export DJANGO_SETTINGS_MODULE
+PYTHONPATH=.
+export PYTHONPATH
+
 default: bin/django-admin.py
 
 bootstrap.py: 
