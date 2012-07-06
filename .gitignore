@@ -4,3 +4,4 @@ bootstrap.py
 develop-eggs/
 django/
 parts/
+*.egg-info
